@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#maindiv {
+    padding: 64px 158px 268px 158px;
+}
+#colorfuldiv {
+    padding: 96px;
+    background: #E4EBFF;
+    width: 1604px;
+  
+}
+#containerdiv {
+    width: 1412px;
+    background: #FFF;
+    padding: var(--spacing-9xl, 96px) 0px;
+    height: 2016px;
+}
+#features {
+    color: #6941C6;
+    text-align: center;
+    font-size: 16px;
+}
+#maintitle {
+    text-align: center;
+    font-size: 40px;
+    color: #181D27;
+}
+#powerful {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 32px;
+}
+#textdiv {
+    display: inline-block; 
+    width: 45%;
+   vertical-align: middle;
+    padding: 0 56px;
+    margin-top: 32px;
+}
+#divdiv {
+    width: 560px;
+}
+#title {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 24px;
+    
+}
+#paragraphfirst {
+    color: #535862;
+    font-size: 18px;
+    margin-top: 24px;
+}
+#firstli,
+#secondli,
+#thirdli {
+    list-style-type: none;
+   margin-top: 12px;
+   color: #535862;
+   font-size: 18px;
+    
+    
+}
+#listlist {
+    display: inline-block;
+    width: 560px;
+    
+}
+#list {
+   display: inline-block;
+    margin-top: 24px;
+}
+#listimg,
+#listimgsec,
+#listimgthird {
+    margin-right: 12px;
+    vertical-align: middle;
+
+    
+}
+#divimg {
+   width: 45%;
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 32px;
+}
+#firstdiv {
+    vertical-align: middle;
+    
+}
+#container {
+    margin-top: 50px;
+}
+#divimgsecond {
+    width: 45%;
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 32px;
+}
+#maindivsecond {
+    margin: 96px;
+}
+#textdivsecond {
+    display: inline-block; 
+    width: 45%;
+   vertical-align: middle;
+    padding: 0 56px;
+    margin-top: 32px;
+    margin-left: 16px;
+}
+#titlesecond {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 24px;
+}
+#paragraphsecond {
+    color: #535862;
+    font-size: 18px;
+    margin-top: 24px;
+}
+#listsecond {
+    display: inline-block;
+    width: 560px;
+}
+#ollist {
+    display: inline-block;
+    margin-top: 24px;
+}
+#oneli,
+#twoli,
+#threeli {
+    list-style-type: none;
+   margin-top: 12px;
+   color: #535862;
+   font-size: 18px;
+}
+#containerthird {
+    margin-top: 50px;
+}
+#textdivthird {
+    display: inline-block; 
+    width: 45%;
+    vertical-align: middle;
+    padding: 0 56px;
+    margin-top: 32px;
+}
+#thirddiv {
+    vertical-align: middle;
+}
+#divthird {
+    width: 560px;
+}
+#titlethird {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 24px;
+}
+#paragraphthird {
+    color: #535862;
+    font-size: 18px;
+    margin-top: 24px;
+}
+#thirdlist {
+    display: inline-block;
+    width: 560px;
+}
+#olsecond {
+    display: inline-block;
+    margin-top: 24px;
+}
+#olli,
+#ollisecond,
+#ollithird {
+    list-style-type: none;
+   margin-top: 12px;
+   color: #535862;
+   font-size: 18px;
+    
+}
